@@ -1,5 +1,5 @@
 # Soziale Netzwerke Analysieren
-Dieses Projekt wird im Rahmen der Studiengangs B.Sc Data Science der Fachhochschule Nordwestschweiz bearbeitet.  
+Dieses Projekt wird im Rahmen des Studiengangs B.Sc Data Science der Fachhochschule Nordwestschweiz bearbeitet.  
 
 # Team Mitglieder
 Dieses Projekt wird von folgenden Studenten bearbeitet:
