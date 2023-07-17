@@ -10,3 +10,8 @@ Dieses Projekt wird von folgenden Studenten bearbeitet:
 | Ben Tran | [@7ben18](https://github.com/7ben18) |
 | Patrick Schürmann | [@patschue](https://github.com/patschue)
 
+# Projekt
+Die Soziale Netzwerkanalyse ist in diesem [Repository](https://github.com/san-projekt/projekt) zu finden.
+
+# Termine
+Abgabe des Projektes spätestens am 31.12.2023, 23:59:59 Uhr.
