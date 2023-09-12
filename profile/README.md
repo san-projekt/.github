@@ -14,4 +14,9 @@ Dieses Projekt wird von folgenden Studenten bearbeitet:
 Die Soziale Netzwerkanalyse ist in diesem [Repository](https://github.com/san-projekt/projekt) zu finden.
 
 # Termine
-Abgabe des Projektes spätestens am 31.12.2023, 23:59:59 Uhr.
+
+| Datum | Zeit | Beschreibung | 
+| ------| ---- |------------ |
+| 25.09.23 | 11:10 - 11:50 | Vergezogene Sschriftliche Prüfung | 
+| 15.11.23 | 08:15 - 09:00 | Schriftliche Prüfung |
+| 31.12.23 | 23:59 | Projekt Abgabe | 
